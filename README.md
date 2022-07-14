@@ -1,7 +1,7 @@
 # Newsyog_Stats
 ## Histograms
 
-import pandas as pd
+0import pandas as pd
 import numpy as np
 import matplotlib.pyplot as pyplot
 from matplotlib.pyplot import hist
@@ -130,19 +130,18 @@ pyplot.legend(loc='upper right')
 pyplot.show()
 
 ```
-    ![output_2_0](https://user-images.githubusercontent.com/86119205/178857559-cb921d33-e5ae-4185-911e-8f406a41a0df.png)
-
-
-
-    ![output_2_1](https://user-images.githubusercontent.com/86119205/178857565-e6c7ea9d-e7c1-4ac5-9cab-25e2b4293d87.png)
-
-    ![output_2_2](https://user-images.githubusercontent.com/86119205/178857568-1562a6a5-74e9-460e-95bf-74ce041727b4.png)
 
 
 
 
-    ![output_2_4](https://user-images.githubusercontent.com/86119205/178857574-46811c60-f725-4b27-b656-0a050e083fe1.png)
+![output_2_0](https://user-images.githubusercontent.com/86119205/178857888-71b09a83-37ef-4f7a-8cab-52ae61691543.png)
+![output_2_1](https://user-images.githubusercontent.com/86119205/178857892-5197d148-75e9-4f51-900d-6168ff4974dd.png)
+![output_2_2](https://user-images.githubusercontent.com/86119205/178857901-3fe1b300-4470-421d-9d32-2dfe9be4935e.png)
+![output_2_3](https://user-images.githubusercontent.com/86119205/178857913-050883bb-0f09-426e-95d1-03e3d1593fe8.png)
+![output_2_4](https://user-images.githubusercontent.com/86119205/178857920-c8516ce4-40a8-4f00-92db-45898ca74235.png)
 
+
+    
 
 
 
@@ -165,20 +164,6 @@ df
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -250,7 +235,8 @@ pyplot.show()
 ```
 
 
-![output_6_0](https://user-images.githubusercontent.com/86119205/178857627-223688c0-df8d-4f76-9398-96531df2abb7.png)
+    
+    ![output_6_0](https://user-images.githubusercontent.com/86119205/178857940-c51d8500-93e6-4208-8b40-0a16a6aa1309.png)
 
 
 
@@ -276,10 +262,9 @@ pyplot.show()
 ```
 
 
-    ![output_8_0](https://user-images.githubusercontent.com/86119205/178857647-3afe727a-6ae6-49b3-97bb-3e3409b48ddb.png)
-
-
     
+   ![output_8_0](https://user-images.githubusercontent.com/86119205/178857967-7ad6009e-8041-4071-a52d-77edaff6145f.png)
+ 
 
 
 
